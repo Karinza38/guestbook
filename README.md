@@ -1,4 +1,4 @@
-# Guestbook
+Guestbook
 An Action 🎬 to create a Guestbook 📖✒ in your Repository 📚
 
 ## Usage
